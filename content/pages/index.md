@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: "Welcome back to devil\U0001F608\U0001F608"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
