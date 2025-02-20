@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: "✅✅✅✅Links\U0001F517\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447"
         altText: ''
         url: /
         showIcon: false
