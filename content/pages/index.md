@@ -13,7 +13,7 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: TLDEVIL0105   START
         altText: ''
         url: 'https://youtube.com/@tldevil0105?si=Jhn_1yGbBaq3rbl2'
         showIcon: false
