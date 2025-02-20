@@ -28,7 +28,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       url: /images/abstract-background.svg
-      altText: Placeholder image
+      altText: TLDEVIL0105
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
