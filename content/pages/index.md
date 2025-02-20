@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions:
       - label: TLDEVIL0105   START
-        altText: ''
+        altText: Subscribe
         url: 'https://youtube.com/@tldevil0105?si=Jhn_1yGbBaq3rbl2'
         showIcon: false
         icon: chevronBigLeft
