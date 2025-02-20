@@ -141,7 +141,7 @@ sections:
     actions:
       - label: "✅✅✅✅Links\U0001F517\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447"
         altText: ''
-        url: ''
+        url: 'https://www.instagram.com/sachin_yadav_0105/?utm_source=qr&r=nametag'
         showIcon: false
         icon: arrowRight
         iconPosition: right
