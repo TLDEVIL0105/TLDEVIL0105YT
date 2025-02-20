@@ -18,7 +18,7 @@ sections:
         url: 'https://youtube.com/@tldevil0105?si=Jhn_1yGbBaq3rbl2'
         showIcon: false
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
         type: Button
