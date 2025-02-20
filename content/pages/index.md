@@ -17,7 +17,7 @@ sections:
         altText: ''
         url: 'https://youtube.com/@tldevil0105?si=Jhn_1yGbBaq3rbl2'
         showIcon: false
-        icon: chevronDown
+        icon: chevronBigLeft
         iconPosition: left
         style: primary
         elementId: ''
