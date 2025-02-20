@@ -141,7 +141,7 @@ sections:
     actions:
       - label: "✅✅✅✅Links\U0001F517\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447\U0001F447"
         altText: ''
-        url: /
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
