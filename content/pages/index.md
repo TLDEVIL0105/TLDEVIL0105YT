@@ -7,7 +7,7 @@ sections:
       text: "Welcome back to   TL DEVIL   \U0001F608\U0001F608"
       color: text-dark
       type: TitleBlock
-    subtitle: 'Please click tldevil0105  go for subscribe now '
+    subtitle: PLEASE CLICK TLDEVIL0105  GO FOR SUBSCRIBE NOW
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
