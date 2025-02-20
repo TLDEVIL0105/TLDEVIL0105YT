@@ -19,7 +19,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
       - label: See Tutorials
