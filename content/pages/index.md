@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "Welcome\U0001F389 to TL DEVIL \U0001F608\U0001F608☣️☣️"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
