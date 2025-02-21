@@ -145,7 +145,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: Apply now  Facebook
         url: 'https://www.facebook.com/profile.php?id=100041148672980'
         icon: arrowRight
         iconPosition: right
