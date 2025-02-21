@@ -125,6 +125,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: 'https://www.facebook.com/profile.php?id=100041148672980'
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
