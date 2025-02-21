@@ -365,12 +365,21 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get started
-        url: /
+      - label: Get strted  Instagram
+        url: 'https://www.instagram.com/sachin_yadav_0105?igsh=MTgxd3BuNDYyMnkzNg=='
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
+      - type: Button
+        label: Get started  Facebook
+        altText: ''
+        url: '/https://www.facebook.com/profile.php?id=100041148672980'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - label: See Tutorials
         url: /
         showIcon: true
