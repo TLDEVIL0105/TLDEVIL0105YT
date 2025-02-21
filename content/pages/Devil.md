@@ -146,7 +146,7 @@ sections:
     actions:
       - type: Button
         label: Apply now
-        url: /
+        url: 'https://www.facebook.com/profile.php?id=100041148672980'
         icon: arrowRight
         iconPosition: right
         style: primary
