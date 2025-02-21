@@ -366,7 +366,7 @@ sections:
       businesses.
     actions:
       - label: Get strted  ins
-        url: /
+        url: 'https://www.instagram.com/sachin_yadav_0105?igsh=MTgxd3BuNDYyMnkzNg=='
         icon: arrowRight
         iconPosition: right
         style: secondary
