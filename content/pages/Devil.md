@@ -149,7 +149,7 @@ sections:
         url: 'https://www.facebook.com/profile.php?id=100041148672980'
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
