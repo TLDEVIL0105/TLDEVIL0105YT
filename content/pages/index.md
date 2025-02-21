@@ -372,7 +372,7 @@ sections:
         style: secondary
         type: Button
       - type: Button
-        label: Get started
+        label: Get started  Facebook
         altText: ''
         url: '/https://www.facebook.com/profile.php?id=100041148672980'
         showIcon: false
