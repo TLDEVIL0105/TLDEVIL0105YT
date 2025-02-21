@@ -16,7 +16,7 @@ featuredImage:
   type: ImageBlock
 bottomSections:
   - title: "POWER OF DEVIL\U0001F608\U0001F608"
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
