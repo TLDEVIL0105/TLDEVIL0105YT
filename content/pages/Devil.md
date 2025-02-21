@@ -150,6 +150,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        showIcon: true
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
