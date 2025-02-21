@@ -371,6 +371,15 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://www.facebook.com/profile.php?id=100041148672980'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
       - label: See Tutorials
         url: /
         showIcon: true
