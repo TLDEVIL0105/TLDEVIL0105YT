@@ -15,7 +15,7 @@ featuredImage:
       borderRadius: x-large
   type: ImageBlock
 bottomSections:
-  - title: Divider
+  - title: "POWER OF DEVIL\U0001F608\U0001F608"
     colors: bg-light-fg-dark
     styles:
       self:
