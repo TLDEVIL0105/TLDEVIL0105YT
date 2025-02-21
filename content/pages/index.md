@@ -365,7 +365,7 @@ sections:
       A service that provides advice and guidance to startups and small
       businesses.
     actions:
-      - label: Get strted  ins
+      - label: Get strted  Instagram
         url: 'https://www.instagram.com/sachin_yadav_0105?igsh=MTgxd3BuNDYyMnkzNg=='
         icon: arrowRight
         iconPosition: right
